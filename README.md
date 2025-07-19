@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on my Personal Projects<br><br>🌱 I’m currently learning MERNtechnologies<br><br>❓ I also possess strong competitive programming and DSA skills.<br><br>⚡ Fun fact: I love to use C++ and Javascript
+🔭 I’m currently working on my Personal Projects<br><br>🌱 I’m currently learning MERN technologies<br><br>❓ I also possess strong competitive programming and DSA skills.<br><br>⚡ Fun fact: I love to use C++ and Javascript
 
  
 
